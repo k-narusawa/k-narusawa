@@ -7,7 +7,7 @@ on:
     - cron: "1 0 * * *"
 
 jobs:
-  update-readme:
+  update-readme1:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
@@ -21,10 +21,11 @@ jobs:
           BRANCH: "master"
           # Manual Commit messages - write your own messages here
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
+  update-readme2:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
