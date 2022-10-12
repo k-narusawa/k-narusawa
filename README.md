@@ -2,11 +2,11 @@
 <h3 align="center">backend developer</h3>
 
 <div align="center">
-  <img alt="details" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
-  <img alt="repos-per-language" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" />
-  <img alt="most-commit" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" />
-  <img alt="stats" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/main/profile-summary-card-output/solarized_dark/3-stats.svg" />
-  <img alt="productive-time" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/main/profile-summary-card-output/solarized_dark/4-productive-time.svg" />
+  <img alt="details" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/master/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
+  <img alt="repos-per-language" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" />
+  <img alt="most-commit" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" />
+  <img alt="stats" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/master/profile-summary-card-output/solarized_dark/3-stats.svg" />
+  <img alt="productive-time" src="https://raw.githubusercontent.com/k-narusawa/k-narusawa/master/profile-summary-card-output/solarized_dark/4-productive-time.svg" />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
